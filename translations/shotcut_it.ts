@@ -2075,7 +2075,7 @@ Shotcut proverà a ripararlo per te</translation>
     <message>
         <location filename="../src/qml/views/filter/FilterMenu.qml" line="124"/>
         <source>Favorite</source>
-        <translation>Favorito</translation>
+        <translation>Preferiti</translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/FilterMenu.qml" line="140"/>
@@ -3118,7 +3118,7 @@ audio (0%) o clip B (100%).</translation>
         <location filename="../src/mainwindow.cpp" line="1703"/>
         <location filename="../src/mainwindow.cpp" line="3287"/>
         <source>Enter Full Screen</source>
-        <translation>Vai a schermo pieno</translation>
+        <translation>Vai a schermo intero</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="448"/>
